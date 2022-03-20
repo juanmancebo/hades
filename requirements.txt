@@ -3,3 +3,5 @@ spotipy==2.16.1
 PyInquirer==1.0.3
 pyfiglet==0.7
 eyed3==0.9.6
+mutagen==1.45.1
+python-dotenv==0.19.2
